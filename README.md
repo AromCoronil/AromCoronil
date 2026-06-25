@@ -30,7 +30,7 @@ Também estudando: **redes** e normas como **ISO/IEC 27001**.
 
 ### Projetos em destaque
 
-- **Dispatch: The Boys** — jogo de texto em **Java/Swing** aplicando POO (herança, polimorfismo e encapsulamento). · [Ver repositório »](https://github.com/SEU-USUARIO/NOME-DO-REPO)
+- **Dispatch: The Boys** — jogo de texto em **Java/Swing** aplicando POO (herança, polimorfismo e encapsulamento). · [Ver repositório »](https://github.com/ZoaoAtumalaka/POOTrabalho)
 
 <br>
 
